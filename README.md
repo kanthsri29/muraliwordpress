@@ -1,0 +1,2 @@
+# muraliwordpress
+Configuring wordpress
